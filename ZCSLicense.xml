@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ZimbraLicense verifier="ZV2">
+  <item name="AccountsLimit" value="50"/>
+  <item name="ArchivingAccountsLimit" value="50"/>
+  <item name="AttachmentConversionEnabled" value="true"/>
+  <item name="AttachmentIndexingAccountsLimit" value="50"/>
+  <item name="BackupEnabled" value="true"/>
+  <item name="CrossMailboxSearchEnabled" value="true"/>
+  <item name="EwsAccountsLimit" value="50"/>
+  <item name="HierarchicalStorageManagementEnabled" value="true"/>
+  <item name="ISyncAccountsLimit" value="50"/>
+  <item name="InstallType" value="trial"/>
+  <item name="IssuedOn" value="20191223075305Z"/>
+  <item name="IssuedToEmail" value="ventaxda@gmail.com"/>
+  <item name="IssuedToName" value="Ventaxda"/>
+  <item name="LicenseId" value="7394dfd9-43be-4568-b656-cd812a279005"/>
+  <item name="MAPIConnectorAccountsLimit" value="50"/>
+  <item name="MobileSyncAccountsLimit" value="50"/>
+  <item name="MobileSyncEnabled" value="true"/>
+  <item name="ResellerName" value=""/>
+  <item name="SMIMEAccountsLimit" value="50"/>
+  <item name="TouchClientsAccountsLimit" value="50"/>
+  <item name="TwoFactorAuthAccountsLimit" value="50"/>
+  <item name="ValidFrom" value="20191222000000Z"/>
+  <item name="ValidUntil" value="20200224170000Z"/>
+  <item name="VoiceAccountsLimit" value="50"/>
+  <item name="ZSSAccountsLimit" value="50"/>
+  <item name="ZTalkAccountsLimit" value="50"/>
+  <signature value="15dba64b4079753faba99a190b43f6b5ecfbed223175d105749b0c08612dd9056cac3f60d912ba69368b286033133e57c312ad2199f25ede75825747fe215e29da2f9dd34a4199370308038841647631fb72e6a06c6e6852eefce3e84f6ccf3883e85e87406717ff104e63f6b5917534b4cc9e45a6433736f0300f51522e27f5335e7c3de0ccbde9c3c9072b35a0dedf9587f7e9dec42ce9765f34b1160a921c053095be5eaa850ddec202d8c17a90144184155d4c57d7c8a0a09762aae2c5236cf80f1c3ed5f837e8ca5fedb6d655a615335d3310400b3f678d7526103ff5ad1b7d23c5611ba15f19f2043f8b83706acc19b5f1d7106d401cb0fe79fb2bdbb4" key="zk1"/>
+</ZimbraLicense>
